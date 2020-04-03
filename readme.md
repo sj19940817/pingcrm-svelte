@@ -81,10 +81,3 @@ To run the Ping CRM tests, run:
 ```
 phpunit
 ```
-
-## Credits
-
-- Original work by Jonathan Reinink (@reinink) and contributors
-- Port to Ruby on Rails by Georg Ledermann (@ledermann)
-- Port to React by Lado Lomidze (@landish)
-- Port to Svelte by Zura Gabievi (@zgabievi)
